@@ -1,0 +1,10 @@
+{
+  "name": "consumer-A",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sujanp-kr/consumer-A.git",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "4.17.18"
+  }
+}
