@@ -5,7 +5,7 @@
   "repository": "git@github.com:sujanp-kr/consumer-A.git",
   "license": "MIT",
   "devDependencies": {
-    "kroger-usage-metrics": "1.0.0",
+    "kroger-usage-metrics": "*",
     "lodash": "^4.17.18"
   }
 }
