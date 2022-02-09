@@ -5,6 +5,6 @@
   "repository": "git@github.com:sujanp-kr/consumer-A.git",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.18"
+    "lodash": "4.17.21"
   }
 }
